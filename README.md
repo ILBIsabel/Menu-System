@@ -7,11 +7,11 @@ Defines a MenuItem interface with required methods for name, price, type, and co
 
 Implements MenuItem in three distinct classes:
 
-Appetizer
+      Appetizer
 
-MainCourse
+      MainCourse
 
-Dessert
+      Dessert
 
 Reads menu data from a structured input file.
 
@@ -19,9 +19,9 @@ Stores items in an ArrayList<MenuItem>.
 
 Sorts items using Collections.sort():
 
-First by type: Appetizer → MainCourse → Dessert
+      First by type: Appetizer → MainCourse → Dessert
 
-Then alphabetically by item name
+      Then alphabetically by item name
 
 Displays a clean, formatted restaurant menu to the user.
 
