@@ -28,9 +28,9 @@ Displays a clean, formatted restaurant menu to the user.
 # File Input Specifications
 menu.txt
 
-The menu file must follow this format:
+The menu file follows this format:
 
-First line: An integer representing the total number of items.
+First line: An integer representing the number of menu items.
 
 Subsequent lines: One menu item per line, in the format:
 
